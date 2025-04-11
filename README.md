@@ -63,7 +63,8 @@ CryptoClustering tackles the problem of finding structure in cryptocurrency mark
    jupyter notebook Crypto_Clustering.ipynb
    ```
 
-> **Note:** Ensure that you have installed all required Python packages (such as `pandas`, `numpy`, `scikit-learn`, and `matplotlib`) as listed in your `requirements.txt`.
+> [!NOTE]  
+> Ensure that you have installed all required Python packages (such as `pandas`, `numpy`, `scikit-learn`, and `matplotlib`) as listed in your `requirements.txt`.  
 
 ---
 
