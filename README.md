@@ -3,6 +3,7 @@
 `EdX/UT Data Analytics and Visualization Bootcamp`  
 `Cohort UTA-VIRT-DATA-PT-11-2024-U-LOLC`  
 `Author: Neel Agarwal`  
+
 ---
 
 ## Table of Contents
